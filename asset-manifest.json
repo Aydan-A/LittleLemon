@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LittleLemon/static/css/main.154a50c9.css",
+    "main.js": "/LittleLemon/static/js/main.dabde17f.js",
+    "index.html": "/LittleLemon/index.html",
+    "main.154a50c9.css.map": "/LittleLemon/static/css/main.154a50c9.css.map",
+    "main.dabde17f.js.map": "/LittleLemon/static/js/main.dabde17f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.154a50c9.css",
+    "static/js/main.dabde17f.js"
+  ]
+}
