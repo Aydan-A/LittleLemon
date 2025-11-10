@@ -1,0 +1,18 @@
+.btn.ctaButtonColor {
+  background: var(--secondaryColor);
+  color: #fff;
+}
+
+.btn.orderButtonColor {
+  background: #fff;
+  color: var(--secondaryColor);
+  border: 1px solid rgba(73, 94, 87, 0.4);
+}
+
+.btn.hero-button {
+  font-size: 1.05rem;
+}
+
+.btn.highlights-button {
+  font-size: 0.95rem;
+}
